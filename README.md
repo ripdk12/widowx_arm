@@ -1,5 +1,9 @@
 # widowx_arm_dev
 
+Install dependencies:
+
+$ sudo apt install ros-melodic-moveit ros-melodic-pcl-ros
+
 ## Quick Start:
 
 $ mkdir -p ~/widowx_arm/src
